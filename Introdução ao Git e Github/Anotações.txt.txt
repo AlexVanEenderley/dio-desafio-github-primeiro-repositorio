@@ -1,0 +1,27 @@
+Link para o Github: https://github.com/AlexVanEenderley/dio-desafio-github-primeiro-repositorio
+
+
+
+Git Bash:  O Git Bash é um terminal extendido para utilizar o Git.
+
+
+Códigos: 
+
+git clone url de repositório  (clona o repositório)
+
+git add   (adiciona informações alteradas)
+
+git commit -m "mensagem falando que alteração foi feita"
+
+git push origin [nome da branch sem colchetes] manda a alteração da branch para a nuvem
+
+git checkout -b criar nome da branch   (cria a branch e o nome)
+
+git checkout nome da branch (muda de branch)
+
+git pull  (puxa as informações atualizadas de volta para a branch atual
+
+cd nome da pasta (mostra onde o arquivo está)
+
+git config init.defautbranch  (retorna nome da branch padrão)
+
